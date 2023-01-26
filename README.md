@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a project written in C# fixing bugs and testing code.
 - 🌱 I’m currently learning how to build apps in flutter.
 - ⚡ In my free time, I like to play sports like soccer⚽ or tennis🎾.
-- 📫 How to reach me: jpcscarvalho@gmail.com or - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-8a65a3209/)
+- 📫 How to reach me: jpcscarvalho@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-JoaoPaulo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-8a65a3209/)
 
 
 ### :hammer_and_pick: Languages and tools:
