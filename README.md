@@ -1,14 +1,14 @@
-### Hi there 👋 Welcome to my GitHub
+## Hi there 👋 Welcome to my GitHub 	:octocat:
 
-### :man_technologist: About me:
-##      My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil:brazil:
+## :man_technologist: About me:
+###      My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil 🇧🇷
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: jpcscarvalho@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: :tennis:
 
 ### :hammer_and_pick: Languages and tools:
 
