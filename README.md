@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub :octocat:
 
 <div align="center">
-  <img src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ## :man_technologist:About me:
