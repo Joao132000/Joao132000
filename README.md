@@ -1,13 +1,15 @@
-## Hi there 👋 Welcome to my GitHub 	:octocat:
+## Hi there 👋 Welcome to my GitHub :octocat:
+<div align="center">
+  <img src="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE" width="300" height="150"/>
+</div>
 
-## :man_technologist: About me:
-###     My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
+## :man_technologist:About me:
+    My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
 
 - 🔭 I’m currently working on a project written in C# fixing bugs and testing code.
 - 🌱 I’m currently learning how to build apps in flutter.
 - ⚡ In my free time, I like to play sports like soccer⚽ or tennis🎾.
 - 📫 How to reach me: jpcscarvalho@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-JoaoPaulo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-8a65a3209/)
-
 
 ### :hammer_and_pick: Languages and tools:
 
