@@ -1,5 +1,8 @@
 ## Hi there 👋 Welcome to my GitHub :octocat:
-<iframe src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE">via GIPHY</a></p>
+
+<div align="center">
+  <iframe src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 ## :man_technologist:About me:
     My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
