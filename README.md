@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub :octocat:
-<img src="https://user-images.githubusercontent.com/71353908/214963302-22f990ad-c856-414b-b719-3d9d8bc90b5c.png" width="100" height="100" />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/71353908/214963302-22f990ad-c856-414b-b719-3d9d8bc90b5c.png" width="300" height="300" />
+</div>
 ## :man_technologist:About me:
     My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
 
