@@ -1,15 +1,15 @@
-## Hi there 👋 Welcome to my GitHub :octocat:
+## Hi there! Welcome to my GitHub! :octocat:
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/71353908/214963302-22f990ad-c856-414b-b719-3d9d8bc90b5c.png" width="300" height="200" />
+    <img src="https://user-images.githubusercontent.com/71353908/214963302-22f990ad-c856-414b-b719-3d9d8bc90b5c.png" width="260" height="160" />
 </div>
 
-## :man_technologist:About me:
+### :man_technologist:About me:
     My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
 
-- 🔭 I’m currently working on a project written in C#, Blazor, and SQL Server fixing bugs and testing code.
-- 🌱 I’m currently learning how to build apps in Flutter, Dart, and Firebase.
+- 🔭 I'm currently working on a project written in C#, Blazor, and SQL Server fixing bugs and testing code.
+- 🌱 I'm currently learning how to build apps in Flutter, Dart, and Firebase.
 - 📖 Looking forward to graduate from Brescia University with a degree in Computer Science and Mathematics.
-- 🗣️ I speak English, Portuguese, and I learning Spanish.
+- 🗣️ I speak English, Portuguese, and I'm learning Spanish.
 - ⚡ In my free time, I like to play sports like soccer⚽ or tennis🎾.
 - 📫 How to reach me: jpcscarvalho@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-JoaoPaulo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-8a65a3209/)
 
