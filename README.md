@@ -1,8 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub :octocat:
 
-<div align="center">
-  <img src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" height="200"/>
-</div>
+
+![download](https://user-images.githubusercontent.com/71353908/214962426-327380e5-9240-4fe4-9427-0c855b84a9f2.jpg)
 
 ## :man_technologist:About me:
     My name is Joao Paulo Carvalho and I am Full Stack Developer from Brazil.
