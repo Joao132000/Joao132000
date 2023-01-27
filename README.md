@@ -4,13 +4,13 @@
 style="display:inline-block; padding-right:20px; width:260px; height:160px;"></p>
 
 ### :man_technologist:About me:
-    My name is Joao Paulo Carvalho, I am Full Stack Developer from Brazil.
+    My name is Joao Paulo Carvalho, I am a Full Stack Developer from Brazil.
 
 - 🔭 I'm currently working on a project written in C#, Blazor, and SQL Server fixing bugs and testing code.
 - 🌱 I'm currently learning how to build apps in Flutter, Dart, and Firebase.
 - 📖 Looking forward to graduate from Brescia University with a degree in Computer Science and Mathematics.
 - 🗣️ I speak English, Portuguese, and I'm learning Spanish.
-- ⚡ In my free time, I like to play sports like soccer⚽ or tennis🎾.
+- ⚡ In my free time, I like to play sports like soccer⚽ and tennis🎾.
 - 📫 How to reach me: jpcscarvalho@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-JoaoPaulo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-8a65a3209/)
 
 ### :hammer_and_pick: Languages and tools:
