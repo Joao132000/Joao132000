@@ -4,8 +4,8 @@
 style="display:inline-block; padding-right:20px; width:260px; height:160px;"></p>
 
 ### :man_technologist:About me:
-    My name is Joao Paulo Carvalho, I am a Full Stack Developer from Brazil.
-
+    
+- 👨‍💼 My name is Joao Paulo Carvalho, I am a Full Stack Developer from Brazil.
 - 🔭 I'm currently working on a project written in C#, Blazor, and SQL Server fixing bugs and testing code.
 - 🌱 I'm currently learning how to build apps in Flutter, Dart, and Firebase.
 - 📖 Looking forward to graduate from Brescia University with a degree in Computer Science and Mathematics.
