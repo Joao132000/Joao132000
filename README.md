@@ -7,7 +7,7 @@ style="display:inline-block; padding-right:20px; width:260px; height:160px;"></p
     
 - 👨‍💼 My name is Joao Paulo Carvalho, I am a Full Stack Developer from Brazil. I have been living in the US for 4 years.
 - 🔭 I'm currently working on a project developed in C#, Blazor, and SQL Server at the company where I work.
-- 🌱 I'm currently learning how to build apps in Flutter, Dart, and Firebase. I have published my first app in the          Apple Store and Play Store recently, The app's name is Tennis LineApp!
+- 🌱 I'm currently learning how to build apps in Flutter, Dart, and Firebase. I have published my first app in the Apple Store and Play Store recently, The app's name is Tennis LineApp!
 - 📖 Looking forward to graduate from Brescia University with a degree in Computer Science and Mathematics.
 - 🗣️ I speak English, Portuguese, and I'm learning Spanish.
 - ⚡ In my free time, I like to play sports like soccer⚽ and tennis🎾.
